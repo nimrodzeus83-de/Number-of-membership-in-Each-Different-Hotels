@@ -13,22 +13,22 @@ The sample datasets used was the three customer's membership types of three diff
 Le Meridien, Lexis Suites, and The Hilton:
 
 # Le Meridien's Memberships:
-Gold - 995
-Platinum - 988 
-Unknown - 28
+* Gold - 995
+* Platinum - 988 
+* Unknown - 28
 
 # Lexis Suites Memberships:
-Gold - 967
-Platinum - 1036
-Unknown - 33
+* Gold - 967
+* Platinum - 1036
+* Unknown - 33
 
 # The Hilton's Memberships:
-Gold - 987
-Platinum - 994
-Unknown - 22
+* Gold - 987
+* Platinum - 994
+* Unknown - 22
 
 In Le Meridien Hotel the highest customer members was Gold Memberhsip, Lexis Suites highest customer members was on the Platinum Membership, meanwhile The Hilton's Highest customer members was on the Platinum Membership, with these results it is shown that having a high number of customer member's in each membership indicates a result of a strong customer retention based on hotel's services that they've offered, and it will help the hotel's and other business is helping in establishing a financial stability and growth, strategic marketing advances, and Operational and Competitive Benefits.
 
 
-File source: Kaggle.com, new_data.csv
-Tools used: VS Code, Python 
+* File source: Kaggle.com, new_data.csv
+* Tools used: VS Code, Python 
