@@ -1,5 +1,5 @@
 # Number-of-customer in membership-of-Each-Different-Hotels
-Before having a data analysis of this report, I apply first the data cleaning process of the original file and rename it into new_data.csv, In this report I used the bar chart as my graph model analysis because it is an Ideal for displaying the ranking of a variables and measuring and contrasting groups by counting their frequencies.
+Before having a data analysis of this report, I apply first the data cleaning process of the original file named "Transactions.csv" and rename it into new_data.csv, In this report I used the bar chart as my graph model analysis because it is an Ideal for displaying the ranking of a variables and measuring and contrasting groups by counting their frequencies.
 
 # Summary:
 This report summarizes the Number of customer's in each three differenet memberships like Gold, Platinum and the Unknown membership, I  did this analysis because membership is one of the services that hotel's promo that offer's a special benefits to the loyal customer's of a specific hotels like giving them a room discounts, free perks or points which can be used for free nights, meals and other services that hotel's can offer and it is aimed to foster customer loyalty, encourage direct bookings, and increase repeat visits by offering exclusive perk.
