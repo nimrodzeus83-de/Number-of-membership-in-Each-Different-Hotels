@@ -32,5 +32,8 @@ Le Meridien, Lexis Suites, and The Hilton:
 In Le Meridien Hotel the highest customer members was Gold Memberhsip, Lexis Suites highest customer members was on the Platinum Membership, meanwhile The Hilton's Highest customer members was on the Platinum Membership, with these results it is shown that having a high number of customer member's in each membership indicates a result of a strong customer retention based on hotel's services that they've offered, and it will help the hotel's and other business is helping in establishing a financial stability and growth, strategic marketing advances, and Operational and Competitive Benefits.
 
 
-* File source: Kaggle.com, new_data.csv
+* File source:
+  - <a href="https://github.com/nimrodzeus83-de/Number-of-membership-in-Each-Different-Hotels/blob/main/Transactions.csv">Transactions.csv</a>
+
+- 
 * Tools used: VS Code, Python 
