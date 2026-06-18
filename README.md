@@ -12,7 +12,7 @@ The objective of this report is to analyze and evaluate the number of customer's
 The sample datasets used was the three customer's membership types of three different hotels which are 
 Le Meridien, Lexis Suites, and The Hilton:
 
-membership_data_results_graph.png
+- <a href="https://github.com/nimrodzeus83-de/Number-of-membership-in-Each-Different-Hotels/blob/main/membership_data_results_graph.png">Membership Data</a>
 
 # Le Meridien's Memberships:
 * Gold - 995
