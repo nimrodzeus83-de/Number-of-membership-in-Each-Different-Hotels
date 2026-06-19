@@ -12,7 +12,7 @@ The objective of this report is to analyze and evaluate the number of customer's
 The sample datasets used was the three customer's membership types of three different hotels which are 
 Le Meridien, Lexis Suites, and The Hilton:
 
-- <a href="https://github.com/nimrodzeus83-de/Number-of-membership-in-Each-Different-Hotels/blob/main/membership_data_results_graph.png">Membership Data</a>
+![Alt text](path/to/mebership_data_results_graph.png)
 
 # Le Meridien's Memberships:
 * Gold - 995
@@ -32,11 +32,12 @@ Le Meridien, Lexis Suites, and The Hilton:
 In Le Meridien Hotel the highest customer members was Gold Memberhsip, Lexis Suites highest customer members was on the Platinum Membership, meanwhile The Hilton's Highest customer members was on the Platinum Membership, with these results it is shown that having a high number of customer member's in each membership indicates a result of a strong customer retention based on hotel's services that they've offered, and it will help the hotel's and other business is helping in establishing a financial stability and growth, strategic marketing advances, and Operational and Competitive Benefits.
 
 
-* File source:
+# File source:
 - <a href="https://github.com/nimrodzeus83-de/Number-of-membership-in-Each-Different-Hotels/blob/main/Transactions.csv">Transactions.csv</a>
 
 - <a href="https://github.com/nimrodzeus83-de/Number-of-membership-in-Each-Different-Hotels/blob/main/new_data.csv">New Data.csv</a>
 
+# Source code: 
 - <a href="https://github.com/nimrodzeus83-de/Number-of-membership-in-Each-Different-Hotels/blob/main/analysis2.py">Membership.py</a>
 
 * Tools used: VS Code, Python 
