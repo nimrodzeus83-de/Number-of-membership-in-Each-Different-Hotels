@@ -1,6 +1,9 @@
 # Number-of-customer in membership-of-Each-Different-Hotels
 Before having a data analysis of this report, I apply first the data cleaning process of the original file named "Transactions.csv" and rename it into new_data.csv, In this report I used the bar chart as my graph model analysis because it is an Ideal for displaying the ranking of a variables and measuring and contrasting groups by counting their frequencies.
 
+# Scenario:
+A managers owns a three different hotels which are the Le Meridien, Lexis Suites, and The Hilton, each of these hotels has a three different memberships which are the Gold, Platinum, and Unknown(others). and the management want to identify which membership perks has most customer members and to know how they can imrpove it's services and queries to meet the customer's demands. 
+
 # Summary:
 This report summarizes the Number of customer's in each three differenet memberships like Gold, Platinum and the Unknown membership, I  did this analysis because membership is one of the services that hotel's promo that offer's a special benefits to the loyal customer's of a specific hotels like giving them a room discounts, free perks or points which can be used for free nights, meals and other services that hotel's can offer and it is aimed to foster customer loyalty, encourage direct bookings, and increase repeat visits by offering exclusive perk.
 Having this kind of report can help hotel's to know which membership has a lot of member's and generate's a lot of money to them and how they can improved their services, strategic control of a price rate in each different memberships and cater a lot of customer's who will having a hotel's membership. 
